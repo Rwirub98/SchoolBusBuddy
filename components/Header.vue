@@ -37,5 +37,3 @@ const closeMenu = () => {
   menuOpen.value = false
 }
 </script>
-
-
